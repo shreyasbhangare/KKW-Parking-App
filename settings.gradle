@@ -1,0 +1,2 @@
+rootProject.name='FinalPark'
+include ':app'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554638576223",
+    "firebase_url": "https://finalpark-c120d.firebaseio.com",
+    "project_id": "finalpark-c120d",
+    "storage_bucket": "finalpark-c120d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554638576223:android:323d30a89b518bb17f69ea",
+        "android_client_info": {
+          "package_name": "com.example.finalpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554638576223-73i48clk2nhrl3d0pmf1csksdrn8p3po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOznM5E6za9WaVaz3UCsbV02TRp1-MlWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554638576223-73i48clk2nhrl3d0pmf1csksdrn8p3po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
